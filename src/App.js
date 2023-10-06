@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Calculator from './components/calculator/Calculator.jsx';
 
 function App() {
   return (
    <>
-   <h1>this is heading .</h1>
+  
+    <Calculator></Calculator>
    </>
   );
 }
