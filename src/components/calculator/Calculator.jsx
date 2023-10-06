@@ -7,7 +7,7 @@ function Calculator() {
       <div className="inner-box">
         <h1 className="head">Calculator</h1>
         <main>
-          <div className="screen"></div>
+          <div className="screen"> </div>
 
           <div className="pad">
             <div className="first-row">
