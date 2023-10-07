@@ -14,7 +14,7 @@ import {
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/webProject",
     element: <Home></Home>,
   },
   {
