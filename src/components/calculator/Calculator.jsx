@@ -3,7 +3,7 @@ import '../calculator/calculator.css';
 function Calculator() {
     return (
      <>
-     <section id="Calculator">
+     <section>
      <div className="outer-box" >
       <div className="inner-box">
         <h1 className="head">Calculator</h1>

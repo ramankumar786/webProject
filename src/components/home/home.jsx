@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import './home.css';
 
 function Home(){
@@ -17,7 +18,7 @@ return(
 <div className="project-container">
     <div className="project-item">
         <div className="project-item-heading"><h1 >Calculator</h1></div>
-       <div className="project-item-link"><h3 ><a href="#Calculator" className="project-item-a">Click Here</a></h3></div>
+       <div className="project-item-link"><h3 ><Link to ="/calculator" className="project-item-a">Click Here</Link></h3></div>
     </div>
     <div className="project-item">
         
