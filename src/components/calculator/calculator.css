@@ -3,14 +3,16 @@
     padding: 0;
     box-sizing: border-box;
   }
-  
+#Calculator{
+  height: 100vh;
+}
   .outer-box {
     border-radius: 10px;
     background-color: black;
     width: 400px;
     height: 540px;
     margin: 0 auto;
-    top: 50px;
+    top: 120px;
     position: relative;
     border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;

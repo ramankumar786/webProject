@@ -3,7 +3,8 @@ import '../calculator/calculator.css';
 function Calculator() {
     return (
      <>
-     <div className="outer-box">
+     <section id="Calculator">
+     <div className="outer-box" >
       <div className="inner-box">
         <h1 className="head">Calculator</h1>
         <main>
@@ -41,6 +42,7 @@ function Calculator() {
         </main>
       </div>
     </div>
+    </section>
 
         
      </>
